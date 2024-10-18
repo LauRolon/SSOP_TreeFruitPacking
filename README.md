@@ -2,5 +2,6 @@
 
 Master branch contains code to:
 
-1) Amplicon sequencing downstream analysis of bacterial (16S V4) and fungal (ITS) communities before and after cleaning and sanitizing.
-2) Pipeline for functional analysis of Nanopore reads.
+1)Analysis of culture-base microbiological results
+2) Amplicon sequencing downstream analysis of bacterial (16S V4) and fungal (ITS) communities before and after cleaning and sanitizing.
+3) Pipeline for functional analysis of Nanopore reads.
